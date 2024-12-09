@@ -2,8 +2,8 @@ public class Robo {
     private int posicaoLinha;
     private int posicaoColuna;
     private int passo;
-    private int nLinha = 20;
-    private int nColuna = 40;
+    private int nLinha ;
+    private int nColuna ;
 
 
     public Robo(int posicaoLinha, int posicaColuna, int passo, int nLinha, int nColuna) {
